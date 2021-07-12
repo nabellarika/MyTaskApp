@@ -1,5 +1,16 @@
-**My Task App**
+# flutterfire
 
-Aplikasi android My Task merupakan aplikasi yang membantu dalam mengingat tugas-tugas yang dimiliki pengguna agar dapat diselesaikan sesuai tenggat waktu. Cara kerja aplikasi ini adalah dengan menginputkan title dan description, kemudian tugas tersebut akan tersimpan sebagai pengingat. Aplikasi ini juga dapat melakukan edit dan hapus pada task yang telah diinputkan.
+A new Flutter project.
 
-![Aplikasi MyTask (1)](https://user-images.githubusercontent.com/60418099/125220698-58d0b280-e2f1-11eb-90b7-51848d33e72e.png)
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
